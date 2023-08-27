@@ -5,7 +5,7 @@
 
 
 (* ::Subtitle:: *)
-(*Code used in the paper "An induced version of Menger's theorem" by Kevin Hendrey, Sergey Norin, Raphael Steiner and J\[EAcute]r\[EAcute]mie Turcotte*)
+(*Code used in the paper "On an induced version of Menger's theorem" by Kevin Hendrey, Sergey Norin, Raphael Steiner and J\[EAcute]r\[EAcute]mie Turcotte*)
 (**)
 (*As part of the proof that given a (close to) subcubic graph with 5 X-Y paths, there exists a pair of non-adjacent X-Y paths, this script shows that there is a reachable state for every path system.*)
 
